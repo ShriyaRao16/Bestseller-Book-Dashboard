@@ -1,7 +1,7 @@
 # Bestseller-Book-Dashboard
 A Streamlit web application to explore bestseller books with filters, charts, and downloads.
 
-##Features
+## Features
 - 🔍 **Search Bar** – Quickly find books by title or author  
 - 📅 **Filter by Year** – View books from a specific publication year  
 - 🎭 **Filter by Genre** – Choose between Fiction or Non-Fiction  
