@@ -19,10 +19,13 @@ A Streamlit web application to explore bestseller books with filters, charts, an
 - **Matplotlib** – Static plots and charts  
 
   
-- ## How to run locally
+  # How to run locally
 ```bash
 pip install -r requirements.txt
+ #Run the Streamlit App
 streamlit run bestseller_app.py
+
+
 
 
 
